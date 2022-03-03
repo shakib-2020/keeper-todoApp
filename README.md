@@ -7,6 +7,9 @@ fork this repo , play with it and if you enjoy give me a star.
 
 In the project directory, you can run:
 
+### `npm install`
+then,
+
 ### `npm start`
 
 Runs the app in the development mode.\
