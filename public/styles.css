@@ -8,9 +8,9 @@ html {
 }
 body {
   background: #eee;
-  padding: 0 16px;
   background-color: #ffffff;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  font-family: "Montserrat", sans-serif;
 }
 
 header {
@@ -24,6 +24,7 @@ header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
   font-weight: 200;
+  padding: 0 50px;
 }
 
 footer {
